@@ -1,0 +1,27 @@
+{
+    "CarbonCredits": {
+        "CategoryId": 6327,
+        "Name": "Carbon credits",
+        "CanRelist": true,
+        "Promotions": {
+            "Gallery": {
+                "Description": "2x larger image"
+            }
+        }
+    },
+    "Badges": {
+        "CategoryId": 6328,
+        "Name": "Badges",
+        "CanRelist": true,
+        "Promotions": {
+            "Gallery": {
+                "Description": "2x larger image"
+            }
+        }
+    },
+    "AutomotiveAviation": {
+        "CategoryId": 6331,
+        "Name": "Automotive & aviation",
+        "CanRelist": false
+    }
+}
